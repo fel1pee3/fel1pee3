@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**fel1pee3/fel1pee3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Opaa ✌ eu sou o Felipe Maia
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
