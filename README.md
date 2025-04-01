@@ -1,4 +1,4 @@
-## Opaa ✌ eu sou o Felipe Maia, FullStack Developer fascinado pelo mundo da tecnologia!
+## Opaa ✌ eu sou o Felipe Maia, Desenvolvedor FullStack, fascinado pelo mundo da tecnologia!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
