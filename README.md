@@ -1,43 +1,53 @@
-# 👋 Opaa, eu sou o Felipe Maia  
-
-💻 **Desenvolvedor Full Stack** | 🚀 Apaixonado por tecnologia e por transformar ideias em soluções digitais.  
-🎯 Foco em **aplicações web escaláveis, APIs robustas e arquiteturas modernas**.  
-
----
-
-## 🚀 Tecnologias & Ferramentas  
-
 <div align="center">
-  <img align="center" alt="TS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-  <img align="center" alt="NestJS" height="40" width="40" src="https://logo.svgcdn.com/devicon/nestjs-original.svg"/>
-  <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  
-  <img align="center" alt="Next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-  
-  <img align="center" alt="Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" alt="Prisma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"/>
-  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+
+# Felipe Maia
+
+**Full Stack Engineer** focado em Backend · TypeScript / NestJS · Arquitetura multi-tenant SaaS
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-maia-386019281/)
+[![Gmail](https://img.shields.io/badge/-jofelipefm@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jofelipefm@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5585986294565)
+
 </div>
 
 ---
 
-## 📊 GitHub Stats  
+### Sobre
+
+3+ anos construindo sistemas em produção, do zero ou evoluindo o que já existe. Já entreguei projetos em setores onde erro custa caro — saúde pública (SUS), previdência municipal (RPPS) e SaaS B2B. Gosto de estar próximo do problema de negócio, não só do código.
+
+### Alguns números
+
+- **34%** de ganho de performance em upgrade de sistema legado (Node.js 12 → 22)
+- **25%** de redução de retrabalho operacional em ERP com 100+ usuários
+- **2 SaaS multi-tenant** construídos sozinho, de ponta a ponta (API, frontend, billing, infra)
+
+---
+
+### Stack
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fel1pee3&layout=compact&langs_count=8&theme=tokyonight"/>
+
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Python](https://skillicons.dev/icons?i=python)
+
 </div>
 
 ---
 
-## 🌐 Vamos nos conectar!  
+### Projetos em destaque
 
-<div align="center">
-  <a href="https://www.instagram.com/felipee3maia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:jofelipefm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/felipe-maia-386019281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://wa.me/5585986294565" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
-</div>
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **[Atlas](https://github.com/fel1pee3/Atlas)** | Plataforma local-first de inteligência pessoal: unifica saúde, agenda e localização numa timeline e gera insights cruzando esses dados. | NestJS · React Native · PostgreSQL/pgvector |
+| **[Maneo](https://github.com/fel1pee3/maneo-api)** | SaaS B2B para clínicas de estética: reduz churn silencioso de 20–40% com detecção e reativação automatizada de pacientes inativos. | NestJS · Next.js · Redis/BullMQ |
+| **[Automa](https://github.com/fel1pee3/automa-backend)** | SaaS multi-tenant para concessionárias: vitrine, CRM e gestão de estoque com +65 endpoints e +150 testes automatizados. | NestJS · Next.js · Prisma |
+
