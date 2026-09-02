@@ -2,7 +2,7 @@
 
 # Felipe Maia
 
-**Full Stack Engineer** focado em Backend · TypeScript / NestJS · Arquitetura multi-tenant SaaS
+**Backend Engineer** · Node.js / NestJS / TypeScript · Arquitetura SaaS multi-tenant
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-maia-386019281/)
 [![Gmail](https://img.shields.io/badge/-jofelipefm@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jofelipefm@gmail.com)
@@ -14,13 +14,13 @@
 
 ### Sobre
 
-3+ anos construindo sistemas em produção, do zero ou evoluindo o que já existe. Já entreguei projetos em setores onde erro custa caro — saúde pública (SUS), previdência municipal (RPPS) e SaaS B2B. Gosto de estar próximo do problema de negócio, não só do código.
+Backend Engineer com atuação profissional desde 2023, especializado em **Node.js, NestJS e TypeScript**. Desenvolvo APIs REST, plataformas SaaS multi-tenant e sistemas orientados a eventos, com foco em performance, segurança e qualidade. Já atuei em produtos de Saúde, Educação, Previdência e SaaS B2B — sempre próximo do problema de negócio, não só do código.
 
-### Alguns números
+### Alguns resultados
 
-- **34%** de ganho de performance em upgrade de sistema legado (Node.js 12 → 22)
-- **25%** de redução de retrabalho operacional em ERP com 100+ usuários
-- **2 SaaS multi-tenant** construídos sozinho, de ponta a ponta (API, frontend, billing, infra)
+- **45%** de redução na latência média de uma API com Redis e otimização de consultas PostgreSQL
+- **34%** de ganho em throughput na modernização de um sistema legado (Node.js 12 → 22)
+- **23%** de redução na latência média de endpoints com refatoração de queries e indexação PostgreSQL
 
 ---
 
@@ -29,25 +29,14 @@
 <div align="center">
 
 ![TypeScript](https://skillicons.dev/icons?i=ts)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![AWS](https://skillicons.dev/icons?i=aws)
+![Kafka](https://skillicons.dev/icons?i=kafka)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Python](https://skillicons.dev/icons?i=python)
 
 </div>
-
----
-
-### Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **[Atlas](https://github.com/fel1pee3/Atlas)** | Plataforma local-first de inteligência pessoal: unifica saúde, agenda e localização numa timeline e gera insights cruzando esses dados. | NestJS · React Native · PostgreSQL/pgvector |
-| **[Maneo](https://github.com/fel1pee3/maneo-api)** | SaaS B2B para clínicas de estética: reduz churn silencioso de 20–40% com detecção e reativação automatizada de pacientes inativos. | NestJS · Next.js · Redis/BullMQ |
-| **[Automa](https://github.com/fel1pee3/automa-backend)** | SaaS multi-tenant para concessionárias: vitrine, CRM e gestão de estoque com +65 endpoints e +150 testes automatizados. | NestJS · Next.js · Prisma |
-
