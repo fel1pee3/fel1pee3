@@ -2,7 +2,7 @@
 
 # Felipe Maia
 
-**Backend Engineer** · Node.js / NestJS / TypeScript · Arquitetura SaaS multi-tenant
+**Backend Engineer** · Node.js / NestJS / TypeScript 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-maia-386019281/)
 [![Gmail](https://img.shields.io/badge/-jofelipefm@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jofelipefm@gmail.com)
@@ -15,6 +15,8 @@
 ### Sobre
 
 Backend Engineer com atuação profissional desde 2023, especializado em **Node.js, NestJS e TypeScript**. Desenvolvo APIs REST, plataformas SaaS multi-tenant e sistemas orientados a eventos, com foco em performance, segurança e qualidade. Já atuei em produtos de Saúde, Educação, Previdência e SaaS B2B — sempre próximo do problema de negócio, não só do código.
+
+Além do backend, possuo experiência com React, Next.js e React Native, o que me permite compreender e entregar funcionalidades de ponta a ponta. Também atuo com decisões arquiteturais, code review e liderança técnica.
 
 ### Alguns resultados
 
@@ -38,5 +40,7 @@ Backend Engineer com atuação profissional desde 2023, especializado em **Node.
 ![Kafka](https://skillicons.dev/icons?i=kafka)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Python](https://skillicons.dev/icons?i=python)
+![Python](https://skillicons.dev/icons?i=react)
+![Python](https://skillicons.dev/icons?i=next)
 
 </div>
