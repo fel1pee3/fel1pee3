@@ -2,7 +2,7 @@
 
 # Felipe Maia
 
-**Backend Engineer** · Node.js / NestJS / TypeScript 
+**Software Engineer** · Node.js / Python / Applied AI
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-maia-386019281/)
 [![Gmail](https://img.shields.io/badge/-jofelipefm@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jofelipefm@gmail.com)
@@ -12,35 +12,42 @@
 
 ---
 
-### Sobre
+### 👋 Sobre mim
 
-Backend Engineer com atuação profissional desde 2023, especializado em **Node.js, NestJS e TypeScript**. Desenvolvo APIs REST, plataformas SaaS multi-tenant e sistemas orientados a eventos, com foco em performance, segurança e qualidade. Já atuei em produtos de Saúde, Educação, Previdência e SaaS B2B — sempre próximo do problema de negócio, não só do código.
+Sou **Software Engineer** especializado no ecossistema Node.js, NestJS e Python, com forte atuação na construção de infraestruturas resilientes e integração de Inteligência Artificial em produtos reais.
 
-Além do backend, possuo experiência com React, Next.js e React Native, o que me permite compreender e entregar funcionalidades de ponta a ponta. Também atuo com decisões arquiteturais, code review e liderança técnica.
+Meu foco é unir **Engenharia de Software de alta performance (AI Backend)** com **Applied AI**. Desenvolvo APIs REST escaláveis, plataformas SaaS B2B multi-tenant e arquiteturas orientadas a eventos (Redis/BullMQ), ao mesmo tempo em que orquestro modelos de linguagem (LLMs) usando arquiteturas **RAG, LangChain e bancos vetoriais (pgvector)**.
 
-### Alguns resultados
-
-- **45%** de redução na latência média de uma API com Redis e otimização de consultas PostgreSQL
-- **34%** de ganho em throughput na modernização de um sistema legado (Node.js 12 → 22)
-- **23%** de redução na latência média de endpoints com refatoração de queries e indexação PostgreSQL
+Além do backend pesado, tenho experiência com React e Next.js, participando ativamente de decisões arquiteturais, design de sistemas (System Design), code review e liderança técnica para garantir segurança e qualidade de ponta a ponta.
 
 ---
 
-### Stack
+### 🚀 Impacto & Resultados
+
+- **34%** de ganho em throughput na liderança da migração e modernização de um sistema legado core (Node.js 12 → 22).
+- **45%** de redução na latência média de API utilizando estratégias de cache com Redis e refatoração de consultas PostgreSQL.
+- **Integração de IA em Produção:** Implantação de automação de atendimento via Gemini API para qualificação de leads contínua em um SaaS.
+- **23%** de redução na latência média de endpoints críticos aplicando indexação e tuning avançado de banco de dados.
+
+---
+
+### 🛠️ Stack & Tecnologias
 
 <div align="center">
 
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![NestJS](https://skillicons.dev/icons?i=nestjs)
+![Python](https://skillicons.dev/icons?i=python)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![AWS](https://skillicons.dev/icons?i=aws)
-![Kafka](https://skillicons.dev/icons?i=kafka)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Python](https://skillicons.dev/icons?i=python)
-![Python](https://skillicons.dev/icons?i=react)
-![Python](https://skillicons.dev/icons?i=next)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=next)
 
 </div>
+
+* **Applied AI:** LangChain, RAG, LLMs, Agents, Vector Databases (pgvector)
+* **Arquitetura & Backend:** SaaS Multi-tenant, Event-Driven, Microsserviços, RBAC, JWT, BullMQ
+* **Cloud & Qualidade:** CI/CD, Jest, Cypress, Playwright
