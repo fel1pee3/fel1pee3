@@ -2,36 +2,31 @@
 
 # Felipe Maia
 
-**Software Engineer** · Node.js / Python / Applied AI
+**Backend Software Engineer**  
+Node.js · TypeScript · NestJS · Python · Applied AI
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-maia-386019281/)
-[![Gmail](https://img.shields.io/badge/-jofelipefm@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jofelipefm@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5585986294565)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jfelipefmaia/)
+[![Email](https://img.shields.io/badge/Email-Contato-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:jofelipefm@gmail.com)
 
 </div>
 
 ---
 
-### 👋 Sobre mim
+### Sobre mim
 
-Sou **Software Engineer** especializado no ecossistema Node.js, NestJS e Python, com forte atuação na construção de infraestruturas resilientes e integração de Inteligência Artificial em produtos reais.
+Sou **engenheiro de software com foco em backend**, atuando profissionalmente desde 2023 no desenvolvimento e na evolução de APIs, integrações e sistemas corporativos.
 
-Meu foco é unir **Engenharia de Software de alta performance (AI Backend)** com **Applied AI**. Desenvolvo APIs REST escaláveis, plataformas SaaS B2B multi-tenant e arquiteturas orientadas a eventos (Redis/BullMQ), ao mesmo tempo em que orquestro modelos de linguagem (LLMs) usando arquiteturas **RAG, LangChain e bancos vetoriais (pgvector)**.
+Minha principal stack é **Node.js, TypeScript e NestJS**, com experiência em **PostgreSQL, Redis, AWS e arquiteturas orientadas a eventos**. Também trabalho com **Python, FastAPI e Applied AI**, integrando LLMs, agentes e arquiteturas RAG a aplicações empresariais.
 
-Além do backend pesado, tenho experiência com React e Next.js, participando ativamente de decisões arquiteturais, design de sistemas (System Design), code review e liderança técnica para garantir segurança e qualidade de ponta a ponta.
+Atualmente atuo no desenvolvimento de serviços backend para soluções de IA aplicadas a sistemas corporativos. Gosto especialmente de desafios relacionados a **arquitetura de software, performance, confiabilidade e evolução de sistemas**.
 
----
+### Resultados em destaque
 
-### 🚀 Impacto & Resultados
+- **+34% de throughput** na modernização de um sistema legado de **Node.js 12 para Node.js 22**, na BOX3.
+- **-23% de latência** em endpoints críticos após otimizações de consultas e índices no **PostgreSQL**, na eadSimples.
+- Experiência com **pipelines assíncronos, RAG multi-tenant e governança de agentes de IA** em soluções corporativas.
 
-- **34%** de ganho em throughput na liderança da migração e modernização de um sistema legado core (Node.js 12 → 22).
-- **45%** de redução na latência média de API utilizando estratégias de cache com Redis e refatoração de consultas PostgreSQL.
-- **Integração de IA em Produção:** Implantação de automação de atendimento via Gemini API para qualificação de leads contínua em um SaaS.
-- **23%** de redução na latência média de endpoints críticos aplicando indexação e tuning avançado de banco de dados.
-
----
-
-### 🛠️ Stack & Tecnologias
+### Tecnologias e especialidades
 
 <div align="center">
 
@@ -43,11 +38,15 @@ Além do backend pesado, tenho experiência com React e Next.js, participando at
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![AWS](https://skillicons.dev/icons?i=aws)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=next)
 
 </div>
 
-* **Applied AI:** LangChain, RAG, LLMs, Agents, Vector Databases (pgvector)
-* **Arquitetura & Backend:** SaaS Multi-tenant, Event-Driven, Microsserviços, RBAC, JWT, BullMQ
-* **Cloud & Qualidade:** CI/CD, Jest, Cypress, Playwright
+| Área | Experiência |
+| --- | --- |
+| **Backend** | Node.js, TypeScript, NestJS, Python, FastAPI, APIs REST |
+| **Dados e mensageria** | PostgreSQL, pgvector, Redis, BullMQ |
+| **Applied AI** | LLMs, RAG, LangChain, agentes de IA, tool calling |
+| **Arquitetura** | Sistemas multi-tenant, processamento assíncrono, RBAC, integração de sistemas |
+| **Cloud e qualidade** | AWS, Docker, CI/CD, Jest, Supertest, Pytest |
+
+
